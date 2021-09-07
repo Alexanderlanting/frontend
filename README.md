@@ -39,7 +39,7 @@ Responsive (Surface)
 https://www.ibm.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+IBM Homepage  
 <img src="images/ibm-01.jpg" width="375px" alt="homepage IBM">
 
 #### Screenshot(s) van de tweede pagina (small screen):
