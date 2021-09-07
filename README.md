@@ -40,7 +40,7 @@ https://www.ibm.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/ibm-01.jpg" width="375px" alt="homepage IBM">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
