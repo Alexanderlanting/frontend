@@ -5,24 +5,174 @@
     box-sizing: border-box;
 }
 
+/* root */
+:root {
+    --blue: #0062FF;
+}
+
 /* body */
 body {
     margin: 0px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    font-smoothing: antialiased;
 }
 
+/* H1, H2, H3, P */
+
+h1 {
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 300;
+    color: #222222;
+}
+
+h2 {
+    font-weight: 28px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #222222;
+}
+
+h3 {
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222;
+}
+
+p {
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222;
+}
+
+/* main */
+main {}
+
+main img:first-child {
+    width: 100%;
+    height: 215px;
+    object-fit: cover;
+}
 
 /* nav */
 header nav {
+    position: fixed;
+    width: 100%;
     height: 50px;
     background-color: white;
     border-bottom: 1px solid #c7c7c7;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
-header nav img {
+header nav img:first-child {
     height: 24px;
-    margin-left: 20px;
+    margin-left: 15px;
     display: inline-block;
+}
 
+header nav img:last-child {
+    margin-right: 15px;
+}
+
+/* article 1 */
+main article:nth-of-type(1) {
+    padding: 15px 15px 30px 15px;
+    background-color: #f2f4f8;
+}
+
+main article:nth-of-type(1) h1 {
+    margin-top: 0px;
+}
+
+main article:nth-of-type(1) p {
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #525252;
+    margin: 0px 0px 30px 0px;
+}
+
+main article:nth-of-type(1) a {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: var(--blue);
+    color: white;
+    padding: 13px 15px 13px 15px;
+}
+
+main article:nth-of-type(1) a img {
+    width: 16px;
+    height: 100%;
+    align-self: center;
+}
+
+/* article 2 */
+main article:nth-of-type(2) {
+    padding: 15px 15px 20px 15px;
+    background-color: #f2f4f8;
+}
+
+main article:nth-of-type(2) h2 span {
+    font-weight: 700;
+}
+
+main article:nth-of-type(2) a {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: var(--blue);
+    color: white;
+    padding: 13px 15px 13px 15px;
+}
+
+main article:nth-of-type(2) a img {
+    width: 16px;
+    height: 100%;
+    align-self: center;
+}
+
+/* section 1 */
+main section:nth-of-type(1) {
+    padding: 15px 15px 30px 15px;
+}
+
+main section:nth-of-type(1) h3:first-child {
+    margin: 10px 0px 20px 0px;
+}
+
+main section article {
+    padding: 0px;
+}
+
+main section article:nth-of-type(1) {
+    padding: 0px 0px 15px 0px;
+}
+
+main section article:nth-of-type(1) img {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
+}
+
+main section article:nth-of-type(1) h3 {
+    margin: 15px 0px 10px 15px;
+}
+
+main section article:nth-of-type(1) p {
+    font-size: 16px;
+    margin: 0px 0px 30px 15px;
+}
+
+main section article:nth-of-type(1) a {
+    background-color: transparent;
+    color: var(--blue);
+    padding: 0px 0px 0px 0px;
+    margin: 15px 0px 0px 15px;
 }
