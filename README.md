@@ -75,7 +75,8 @@ hier de naam van de pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code), 
+Ik vond het beginnen met github wel even wennen maar vind het nu wel fijn werken. Verder had ik moeite met de css selectoren, ik heb vaak dat ik meerdere html elementen aanspreek terwijl ik er maar 1 aan wil spreken. 
 
 
 ### Agenda voor meeting
