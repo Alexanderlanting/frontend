@@ -92,10 +92,10 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Meer root kleuren toevoegen
+- H1, H2, H3, P allemaal aanspreken met 1 root kleur (effiecientie) 
+- Los de CSS selector problemen op met gebruik van "+ > ~" 
+- IBM logo in nav kan een H1 zijn 
 
 </details>
 
