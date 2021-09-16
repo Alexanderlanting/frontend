@@ -84,7 +84,7 @@ header nav img:last-child {
 /* article 1 */
 main > article:nth-of-type(1) {
     padding: 15px 15px 30px 15px;
-    background-color: #f2f4f8;
+    background-color: var(--light-grey);
 }
 
 main > article:nth-of-type(1) h1 {
@@ -118,7 +118,7 @@ main > article:nth-of-type(1) a img {
 /* article 2 */
 main > article:nth-of-type(2) {
     padding: 15px 15px 20px 15px;
-    background-color: #f2f4f8;
+    background-color: var(--light-grey);
 }
 
 main > article:nth-of-type(2) h2 span {
@@ -152,7 +152,7 @@ main section:nth-of-type(1) h3:first-child {
 
 main section article {
     padding: 0px;
-     background-color: #f2f4f8;
+    background-color: var(--light-grey);
 }
 
 main section article:nth-of-type(1) {
