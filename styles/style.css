@@ -8,6 +8,8 @@
 /* root */
 :root {
     --blue: #0062FF;
+    --light-grey: #f2f4f8;
+    --medium-grey: #222222; 
 }
 
 /* body */
@@ -21,39 +23,40 @@ body {
 
 /* H1, H2, H3, P */
 
+h1, h2, h3, p { 
+color: var(--medium-grey)
+}
+
 h1 {
     font-size: 32px;
     line-height: 40px;
-    font-weight: 300;
-    color: #222222;
+    font-weight: 300;   
 }
 
 h2 {
     font-weight: 28px;
     line-height: 36px;
-    font-weight: 400;
-    color: #222222;
+    font-weight: 400;   
 }
 
 h3 {
     font-size: 16px;
-    line-height: 22px;
-    color: #222222;
+    line-height: 22px;  
 }
 
 p {
     font-size: 16px;
     line-height: 22px;
-    color: #222222;
 }
 
 /* main */
 main {}
 
-main img:first-child {
+main > img:first-child {
     width: 100%;
     height: 215px;
     object-fit: cover;
+    margin-top: 50px; 
 }
 
 /* nav */
@@ -79,16 +82,16 @@ header nav img:last-child {
 }
 
 /* article 1 */
-main article:nth-of-type(1) {
+main > article:nth-of-type(1) {
     padding: 15px 15px 30px 15px;
     background-color: #f2f4f8;
 }
 
-main article:nth-of-type(1) h1 {
+main > article:nth-of-type(1) h1 {
     margin-top: 0px;
 }
 
-main article:nth-of-type(1) p {
+main > article:nth-of-type(1) p {
     font-size: 20px;
     line-height: 28px;
     font-weight: 400;
@@ -96,7 +99,7 @@ main article:nth-of-type(1) p {
     margin: 0px 0px 30px 0px;
 }
 
-main article:nth-of-type(1) a {
+main > article:nth-of-type(1) a {
     display: flex;
     justify-content: space-between;
     font-size: 16px;
@@ -106,23 +109,23 @@ main article:nth-of-type(1) a {
     padding: 13px 15px 13px 15px;
 }
 
-main article:nth-of-type(1) a img {
+main > article:nth-of-type(1) a img {
     width: 16px;
     height: 100%;
     align-self: center;
 }
 
 /* article 2 */
-main article:nth-of-type(2) {
+main > article:nth-of-type(2) {
     padding: 15px 15px 20px 15px;
     background-color: #f2f4f8;
 }
 
-main article:nth-of-type(2) h2 span {
+main > article:nth-of-type(2) h2 span {
     font-weight: 700;
 }
 
-main article:nth-of-type(2) a {
+main > article:nth-of-type(2) a {
     display: flex;
     justify-content: space-between;
     font-size: 16px;
@@ -132,7 +135,7 @@ main article:nth-of-type(2) a {
     padding: 13px 15px 13px 15px;
 }
 
-main article:nth-of-type(2) a img {
+main > article:nth-of-type(2) a img {
     width: 16px;
     height: 100%;
     align-self: center;
@@ -149,6 +152,7 @@ main section:nth-of-type(1) h3:first-child {
 
 main section article {
     padding: 0px;
+     background-color: #f2f4f8;
 }
 
 main section article:nth-of-type(1) {
@@ -166,7 +170,6 @@ main section article:nth-of-type(1) h3 {
 }
 
 main section article:nth-of-type(1) p {
-    font-size: 16px;
     margin: 0px 0px 30px 15px;
 }
 
