@@ -89,6 +89,22 @@ samen met je groepje opstellen
 | ...            | ...                | ...          | ...              |
 
 
+<table>
+  <tr>
+    <th>Alex</th>
+    <th>Martin</th>
+    <th>Dave</th>
+    <th>Ruben</th>
+  </tr>
+  <tr>
+    <td>CSS selectoren</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+</table>
+
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
