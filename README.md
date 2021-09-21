@@ -132,7 +132,7 @@ samen met je groepje opstellen
   </tr>
   <tr>
     <td>Image styling</td>
-    <td></td>
+    <td>Backdrop filter</td>
     <td></td>
     <td></td>
   </tr>
