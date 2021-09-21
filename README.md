@@ -82,13 +82,6 @@ Ik vond het beginnen met github wel even wennen maar vind het nu wel fijn werken
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
 <table>
   <tr>
     <th>Alex</th>
@@ -102,7 +95,6 @@ samen met je groepje opstellen
     <td></td>
     <td></td>
   </tr>
-  
 </table>
 
 ### Verslag van meeting
@@ -125,18 +117,26 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code), Het coderen van alle onderdelen op mijn website is goed gelukt. Ik had alleen een probleem met een opacity toepassen op een background image zonder dat de tekst ook aangepast word. 
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+<table>
+  <tr>
+    <th>Alex</th>
+    <th>Martin</th>
+    <th>Dave</th>
+    <th>Ruben</th>
+  </tr>
+  <tr>
+    <td>Image styling</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
