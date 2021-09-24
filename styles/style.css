@@ -94,7 +94,7 @@ header nav img:last-child:hover {
 
 /* hamburger menu */
 header ul {
-     
+
     visibility: hidden;
     opacity: 0;
     transition: 0.4s all ease-in-out;
@@ -110,7 +110,7 @@ header ul {
 }
 
 .togglemenu {
-    margin-top: 50px; 
+    margin-top: 50px;
     visibility: visible;
     opacity: 1;
 }
@@ -201,43 +201,76 @@ main > article:nth-of-type(2) a img {
 }
 
 /* section 1 */
-main section:nth-of-type(1) {
+main > section:nth-of-type(1) {
     padding: 15px 15px 30px 15px;
 }
 
-main section:nth-of-type(1) h3:first-child {
+main > section:nth-of-type(1) h3:first-child {
     margin: 10px 0px 20px 0px;
 }
 
-main section:nth-of-type(1) article {
+main > section:nth-of-type(1) article {
     padding: 0px;
     background-color: var(--light-grey);
+    width: 100%;
+    flex-shrink: 0;
+    transition: 0.2s all ease-in-out;
 }
 
-main section:nth-of-type(1) article:nth-of-type(1) {
+main > section:nth-of-type(1) article:nth-of-type(1n) {
     padding: 0px 0px 15px 0px;
 }
 
-main section:nth-of-type(1) article:nth-of-type(1) img {
+main > section:nth-of-type(1) article:nth-of-type(1n) img {
     height: 200px;
     object-fit: cover;
     width: 100%;
 }
 
-main section:nth-of-type(1) article:nth-of-type(1) h3 {
+main > section:nth-of-type(1) article:nth-of-type(1n) h3 {
     margin: 15px 0px 10px 15px;
 }
 
-main section:nth-of-type(1) article:nth-of-type(1) p {
-    margin: 0px 0px 30px 15px;
+main > section:nth-of-type(1) article:nth-of-type(1n) p {
+    margin: 0px 15px 30px 15px;
 }
 
-main section:nth-of-type(1) article:nth-of-type(1) a {
+main > section:nth-of-type(1) article:nth-of-type(1n) a {
     background-color: transparent;
     color: var(--blue);
     padding: 0px 0px 0px 0px;
     margin: 15px 0px 0px 15px;
 }
+
+main > section:nth-of-type(1) section {
+    display: flex;
+    overflow: hidden;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+main > section > a {
+    margin-top: 20px;
+    background-color: var(--blue);
+    display: inline-block;
+    height: 46px;
+    transition: 0.2s all ease-in-out;
+}
+
+main > section > a:hover {
+    background-color: var(--dark-blue);
+    cursor: pointer;
+}
+
+main > section > a img {
+    text-align: center;
+    padding: 15px;
+}
+
+main > section > a:nth-of-type(1) {
+    transform: scaleX(-1);
+}
+
 
 /* section 2 */
 
