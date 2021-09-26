@@ -78,7 +78,26 @@ header nav {
 header nav img:first-child {
     height: 24px;
     margin-left: 15px;
+}
 
+header nav img:first-child:hover {
+    animation: logo-animation 2s infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes logo-animation {
+    0% {
+        width: 60px;
+    }
+
+    50% {
+        filter: invert(0.5) sepia(1) hue-rotate(-0.5turn) saturate(8);
+        width: 100px;
+    }
+
+    100% {
+        width: 60px;
+    }
 }
 
 header nav img:last-child {
@@ -94,7 +113,6 @@ header nav img:last-child:hover {
 
 /* hamburger menu */
 header ul {
-
     visibility: hidden;
     opacity: 0;
     transition: 0.4s all ease-in-out;
