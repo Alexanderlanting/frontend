@@ -44,7 +44,7 @@ IBM Homepage
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/ibm-02.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -141,10 +141,10 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Hamburger menu animatie toevoegen
+- Button animaties
+- Maak 2e pagina
+- Maak de carousel werkend 
 
 </details>
 
