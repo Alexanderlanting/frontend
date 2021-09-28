@@ -187,7 +187,14 @@ main > section > button:focus-visible {
     background-color: var(--dark-blue);
     outline: none;
     filter: invert(1);
+}
 
+main > article:nth-of-type(1) a:active,
+main > article:nth-of-type(2) a:active,
+main > section:nth-of-type(2) article:nth-of-type(1) a:active,
+main > section:nth-of-type(2) article:nth-of-type(2) a:active,
+main > section > button:active {
+    filter: opacity(.8);
 }
 
 main > article:nth-of-type(1) a img {
@@ -280,9 +287,8 @@ main > section > button:hover {
     cursor: pointer;
 }
 
-main > section > a img {
-    text-align: center;
-    padding: 15px;
+main > section > button img {
+    margin-top: 2px;
 }
 
 main > section > button:nth-of-type(1) {
