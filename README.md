@@ -159,6 +159,9 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
+- Logo kan je niet op klikken
+- Niet alle linkjes zijn nog toegevoegd
+- Alt op images met screenreader niet altijd heel duidelijk
 
 #### Titel eerste bevinding
 Hier korte omschrijving (met indien nodig een afbeelding)
