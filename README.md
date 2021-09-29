@@ -166,6 +166,7 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 - De bril met suiker zieke was wel vervelend maar ik kon de website nog goed gebruiken
 - Met elastiekjes om je vingers kan je nog wel typen maar gaat minder goed
 - De ballon hoog houden terwijl je de website gebruikt is heel lastig, alles gaat heel sloom en je word constant afgeleid
+- Wanneer je kleurenblind de website bekijkt, veranderen vooral de images en de buttons
 
  
 #### Titel eerste bevinding
