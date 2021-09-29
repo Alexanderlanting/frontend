@@ -162,7 +162,12 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 - Logo kan je niet op klikken
 - Niet alle linkjes zijn nog toegevoegd
 - Alt op images met screenreader niet altijd heel duidelijk
+- Met de schokken en motorische problemen was het lastig om de website te bedienen maar nog wel mogelijk
+- De bril met suiker zieke was wel vervelend maar ik kon de website nog goed gebruiken
+- Met elastiekjes om je vingers kan je nog wel typen maar gaat minder goed
+- De ballon hoog houden terwijl je de website gebruikt is heel lastig, alles gaat heel sloom en je word constant afgeleid
 
+ 
 #### Titel eerste bevinding
 Hier korte omschrijving (met indien nodig een afbeelding)
 
