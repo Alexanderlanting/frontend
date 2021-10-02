@@ -16,6 +16,7 @@
 
 /* body */
 body {
+    transition: 2s all ease-in-out;
     margin: 0px;
     font-family: 'IBM Plex Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -477,6 +478,12 @@ footer ul:nth-of-type(3) {
 
 footer ul:nth-of-type(3) li a {
     margin-right: 20px;
+}
+
+/* easter egg */ 
+.easter {
+    filter: hue-rotate(1turn);
+    transform: rotate(360deg) rotateY(180deg);
 }
 
 /* carousel */
