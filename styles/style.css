@@ -90,6 +90,7 @@ header nav img:first-child:hover {
 @keyframes logo-animation {
     50% {
         filter: invert(0.5) sepia(1) hue-rotate(-0.5turn) saturate(8);
+        transform: rotateY(360deg); 
     }
 }
 
