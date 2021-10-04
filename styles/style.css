@@ -16,7 +16,6 @@
 
 /* body */
 body {
-    transition: 2s all ease-in-out;
     margin: 0px;
     font-family: 'IBM Plex Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -56,6 +55,10 @@ p {
 }
 
 /* main */
+main {
+    transition: 2s all ease-in-out;
+}
+
 main > img:first-child {
     width: 100%;
     height: 215px;
@@ -90,7 +93,7 @@ header nav img:first-child:hover {
 @keyframes logo-animation {
     50% {
         filter: invert(0.5) sepia(1) hue-rotate(-0.5turn) saturate(8);
-        transform: rotateY(360deg); 
+        transform: rotateY(360deg);
     }
 }
 
@@ -179,6 +182,12 @@ main > section:nth-of-type(2) article:nth-of-type(1) a:hover,
 main > section:nth-of-type(2) article:nth-of-type(2) a:hover {
     cursor: pointer;
     background-color: var(--dark-blue);
+    padding-left: 20px;
+}
+
+main > section:nth-of-type(2) article:nth-of-type(1) a:hover,
+main > section:nth-of-type(2) article:nth-of-type(2) a:hover {
+    padding-left: 20px;
 }
 
 main > article:nth-of-type(1) a:focus-visible,
@@ -233,6 +242,7 @@ main > section:nth-of-type(1) section {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
+
 }
 
 main > section:nth-of-type(1) h3:first-child {
@@ -243,9 +253,7 @@ main > section:nth-of-type(1) article {
     padding: 0px;
     background-color: var(--light-grey);
     width: 100%;
-
     flex-shrink: 0;
-
     transition: 0.2s all ease-in-out;
 }
 
@@ -278,6 +286,7 @@ main > section:nth-of-type(1) section {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
+
 }
 
 main > section > button {
@@ -288,6 +297,7 @@ main > section > button {
     transition: 0.2s all ease-in-out;
     border: none;
     width: 46px;
+    padding: 0px;
 }
 
 main > section > button:hover {
@@ -296,7 +306,9 @@ main > section > button:hover {
 }
 
 main > section > button img {
-    margin-top: 2px;
+    margin-top: 4px;
+    width: 16px;
+
 }
 
 main > section > button:nth-of-type(1) {
@@ -341,7 +353,7 @@ main > section:nth-of-type(2) article:nth-of-type(2) a {
     right: 0;
     bottom: 0;
     background-color: var(--blue);
-    padding: 20px;
+    padding: 15px;
     color: white;
     transition: 0.2s all ease-in-out;
     text-decoration: none;
@@ -350,10 +362,10 @@ main > section:nth-of-type(2) article:nth-of-type(2) a {
 main > section:nth-of-type(2) article:nth-of-type(1) a img,
 main > section:nth-of-type(2) article:nth-of-type(2) a img {
     position: absolute;
-    width: auto;
+    width: 16px;
     height: 16px;
-    bottom: 20px;
-    right: 20px;
+    bottom: 15px;
+    right: 15px;
 }
 
 
@@ -484,7 +496,7 @@ footer ul:nth-of-type(3) li a {
 /* easter egg */
 .easter {
     filter: hue-rotate(1.5turn);
-    transform: rotateY(180deg);
+
 }
 
 /* carousel */

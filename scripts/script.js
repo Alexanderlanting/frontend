@@ -29,13 +29,5 @@ function left() {
     carousel.classList.remove("moveright")
 }
 
-/* easter egg */
 
-logo = document.querySelector("header nav img:first-child")
-body = document.querySelector("body")
 
-logo.addEventListener("dblclick", easter);
-
-function easter() {
-    body.classList.toggle("easter");
-}
