@@ -199,7 +199,7 @@ Je kan een high contrast button maken op je website waardoor het duidelijker wor
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had wat moeite om de carousel op mijn website werkend te maken maar dit is met wat hulp gelukt, verder had ik niet ergens moeite mee. 
 
 
 ### Agenda voor meeting
