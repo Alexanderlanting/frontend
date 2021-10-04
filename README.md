@@ -169,28 +169,23 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 - Wanneer je kleurenblind de website bekijkt, veranderen vooral de images en de buttons
 
  
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Met de schokken en motorische problemen was het lastig om de website te bedienen maar nog wel mogelijk
+Door de schokken kon je je hand niet meer onder controle houden en was vooral bijvoorbeeld het klikken op kleine elementen lastig (met indien nodig een afbeelding)
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Dit zou je kunnen oplossen door je clickable elementen altijd groot genoeg te maken zodat je er makkelijk op kunt klikken  (met indien nodig een afbeelding)
 
 
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Alt op images met screenreader niet altijd heel duidelijk 
+De alt omschrijving was niet altijd precies wat de button bijvoorbeeld ging doen (met indien nodig een afbeelding)
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Je kan dit oplossen door een uitgebreidere omschrijving te geven (met indien nodig een afbeelding)
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Wanneer je kleurenblind de website bekijkt, veranderen vooral de images en de buttons
+Er zouden problemen kunnen ontstaan met buttons die niet meer duidelijk zijn (met indien nodig een afbeelding)
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Je kan een high contrast button maken op je website waardoor het duidelijker word (met indien nodig een afbeelding)
+
 
 </details>
 
@@ -204,7 +199,7 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had wat moeite om de carousel op mijn website werkend te maken maar dit is met wat hulp gelukt, verder had ik niet ergens moeite mee. 
 
 
 ### Agenda voor meeting
@@ -220,10 +215,8 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Voeg een easter egg animatie toe 
+
 
 </details>
 
