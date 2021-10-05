@@ -231,10 +231,15 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had nog nooit met github gewerkt dus dit was volledig nieuw voor mij, het was even wennen op het begin maar ik vind het nu heel fijn om mee te werken. Verder had ik op het begin moeite om alle elementen aan te spreken door middel van css selectoren, ik had vaak dat ik niet specifiek genoeg was maar na mate ik verder ging begreep ik het steeds beter. Ik liep ook soms vast op kleine problemen maar die heb ik dan gewoon overgeslagen en later gevraagd, zoals hoe je een carousel kan laten werken. 
+<br><br>
+Ik ben tevreden over mijn eindresultsaat en vond het vooral leuk om alle interactieve states toe te voegen zoals de hover, focus en active. 
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+<img src="/images/eindresultaat-01.png">
+<img src="/images/eindresultaat-02.png">
 
 </details>
 
