@@ -237,7 +237,6 @@ Ik ben tevreden over mijn eindresultsaat en vond het vooral leuk om alle interac
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
 <img src="/images/eindresultaat-01.png">
 <img src="/images/eindresultaat-02.png">
 
