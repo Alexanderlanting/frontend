@@ -256,5 +256,6 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 1. https://www.ibm.com/nl-en (Nagemaakte website) 
 2. https://flukeout.github.io/# (oefening voor css selectors)
 3. https://unsplash.com/ (all photos are free to use) 
+4. https://fonts.google.com/specimen/IBM+Plex+Sans?query=ibm+ (IBM Plex Sans font)
 
 </details>
